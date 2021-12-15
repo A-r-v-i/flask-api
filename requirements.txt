@@ -1,0 +1,9 @@
+greenlet==1.0.0
+psycopg2==2.9.1
+SQLAlchemy==1.4.7
+Flask-Cors==3.0.10
+Flask
+requests
+pyOpenSSL
+Flask-Login
+okta-jwt-verifier
